@@ -1,0 +1,2 @@
+module DailyTracksHelper
+end
